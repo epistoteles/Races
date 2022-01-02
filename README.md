@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-what">What</a> •
   <a href="#%EF%B8%8F-installation">Installation</a> •
-  <a href="#-preview">Preview</a> •
+  <a href="#%EF%B8%8F-preview">Preview</a> •
   <a href="#%EF%B8%8F-license">License</a>
 </p>
 
