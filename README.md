@@ -47,6 +47,7 @@ jupyter notebook Report.ipynb
 
 These images are a preview of what to expect from the notebook:
 
+![preview](preview.png)
 
 ## ⚠️ License
 This repository has been published under the MIT license (see the file `LICENSE.txt`).
