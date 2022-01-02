@@ -36,7 +36,6 @@ for idx, skill in leaderboard:
     X.append(trueskill.expose(skill))
     Y.append(counts[idx])
 
-
 fig = plt.figure(figsize=(8, 8))
 gs = gridspec.GridSpec(3, 3)
 ax_main = plt.subplot(gs[1:3, :2])
