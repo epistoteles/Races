@@ -8,7 +8,7 @@
 </p>
 
 ![race car](car.jpeg)
-## 🤔 About
+## 💡 About
 
 This repository is a submission for the code competition *BIG DATA Predictions* by [IT-Talents](https://it-talents.de/) and [Materna](https://www.materna.com/EN/Home/home_node.html).
 
