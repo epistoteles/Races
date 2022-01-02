@@ -1,14 +1,14 @@
 <h1 align="center">🏎️🏁 Races 🕹️📊</h4>
 
 <p align="center">
-  <a href="#-what">What</a> •
+  <a href="#-about">About</a> •
   <a href="#%EF%B8%8F-installation">Installation</a> •
   <a href="#%EF%B8%8F-preview">Preview</a> •
   <a href="#%EF%B8%8F-license">License</a>
 </p>
 
 ![race car](car.jpeg)
-## 🤔 What?
+## 🤔 About
 
 This repository is a submission for the code competition *BIG DATA Predictions* by [IT-Talents](https://it-talents.de/) and [Materna](https://www.materna.com/EN/Home/home_node.html).
 
