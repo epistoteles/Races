@@ -1,0 +1,8 @@
+ipython==7.30.1
+jupyterthemes==0.20.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.3.3
+scipy==1.6.0
+seaborn==0.11.2
+trueskill==0.4.5
