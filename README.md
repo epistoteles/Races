@@ -35,7 +35,7 @@ This will mainly make the cells wider – great for looking at horizontal plots 
 
 If you don't just want to read the notebook, but execute its cells yourself, all requirements in `requirements.txt` have to be installed. You don't have to do this externally! Just execute the installation cell at the top of the notebook after starting it – you should execute the notebook from top to bottom anyway.
 
-This assumes you have Python 3 and Jupyter already installed, of course.
+This assumes you have Python 3 and [Jupyter](https://jupyter.org/install) (Jupyter Notebook) already installed, of course.
 
 Finally, open the notebook:
 
