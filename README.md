@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#-what">What</a> •
   <a href="#%EF%B8%8F-installation">Installation</a> •
+  <a href="#-preview">Preview</a> •
   <a href="#%EF%B8%8F-license">License</a>
 </p>
 
@@ -42,7 +43,14 @@ Finally, open the notebook:
 jupyter notebook Report.ipynb
 ```
 
+## 👁️ Preview
+
+These images are a preview of what to expect from the notebook:
+
+
 ## ⚠️ License
 This repository has been published under the MIT license (see the file `LICENSE.txt`).
 
-The [photo of the race car](https://unsplash.com/photos/XtVl8IL-8EI) has been shot by [Wes Tindel](https://unsplash.com/@lonestarexotic) and was published under the Unsplash license.
+The [photo of the race car](https://unsplash.com/photos/XtVl8IL-8EI) has been shot by [Wes Tindel](https://unsplash.com/@lonestarexotic) and was published under the [Unsplash license](https://unsplash.com/license).
+
+The logos of IT-Talents and Materna are property of their respective owners.
