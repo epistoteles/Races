@@ -31,17 +31,17 @@ pip install jupyterthemes
 jt -t grade3 -fs 10 -altp -nfs 115 -nf georgiaserif -tfs 115 -tf opensans -m 200 -cellw 70%
 ```
 
-This will mainly make the cells wider – great for looking at horizontal plots – and remove UI clutter. Please not that it will permanently change your notebook style. Revert to the defaults with `jt -r` if you don't like it. A clean Jupyter interface does feel great though!
-
-If you don't just want to read the notebook, but execute its cells yourself, all requirements in `requirements.txt` have to be installed. You don't have to do this externally! Just execute the installation cell at the top of the notebook after starting it – you should execute the notebook from top to bottom anyway.
-
-This assumes you have Python 3 and [Jupyter](https://jupyter.org/install) (Jupyter Notebook) already installed, of course.
+This will mainly make the cells wider – great for looking at horizontal plots – and remove UI clutter. Please note that it will permanently change your notebook style. Revert to the defaults with `jt -r` if you don't like it. A clean Jupyter interface does feel great though!
 
 Finally, open the notebook:
 
 ```
 jupyter notebook Report.ipynb
 ```
+
+This assumes you have Python 3 and [Jupyter](https://jupyter.org/install) (Jupyter Notebook) already installed, of course.
+
+If you don't just want to read the notebook, but execute its cells yourself, all requirements in `requirements.txt` have to be installed. You don't have to do this externally! Just execute the installation cell at the top of the notebook after starting it – you should execute the notebook from top to bottom anyway.
 
 ## 👁️ Preview
 
